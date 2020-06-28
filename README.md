@@ -1,7 +1,6 @@
 # websitePython
 pythonTeaching
-hier komen pyton
-etanden die betrekking hebben op de website :
+hier komen python bestanden die betrekking hebben op de website:
 delaatadvies.nl: ponggame, diseasespread
 
 
